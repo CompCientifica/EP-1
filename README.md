@@ -1,12 +1,6 @@
 # EP 1 - Cálculos Complexos com Séries de Taylor
 Este Exercício-Programa tem o objetivo de fazer uma simulação em Python para cálculos de funções complexas. Sabemos que o computador não implementa no seu processador algumas funções como logaritmo, secante, entre outros. Assim, precisamos fazer um algoritmo para estes cálculos.
 
-Escolha a série de Taylor em: https://spsenacbr-my.sharepoint.com/:x:/g/personal/celso_vcrivelaro_sp_senac_br/EcCo9hFnkCVHtVOOBLAwHZIB3Y6rdRJhkzgmBuiw29797w?e=aYAM7R. Coloque o nome do grupo
-
-## Assista o vídeo:
-
-https://www.youtube.com/watch?v=KAkdA-iwIus
-
 ## Com a função escolhida, faça:
 
 - Série de Taylor
